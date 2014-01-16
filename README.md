@@ -1,6 +1,6 @@
 #dotfileの管理をする
 ##Cloneするときは以下のコマンドを打ち込む
-'git clone git@github.com:kiddikn/dotfiles.git
+`git clone git@github.com:kiddikn/dotfiles.git
 
 ##SSHキーが登録できていないときは以下のように
     $ cd ~/.ssh/
